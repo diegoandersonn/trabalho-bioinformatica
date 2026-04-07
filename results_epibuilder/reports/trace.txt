@@ -1,0 +1,4 @@
+task_id	hash	native_id	name	status	exit	submit	duration	realtime	%cpu	peak_rss	peak_vmem	rchar	wchar
+1	ba/002c0b	101	validate_fasta (validate_fasta)	COMPLETED	0	2026-04-07 17:07:23.477	819ms	763ms	192.4%	34.5 MB	3.9 GB	9 MB	26.1 KB
+3	66/82879c	235	run_localization (run_localization)	COMPLETED	0	2026-04-07 17:07:24.339	7m 40s	7m 40s	0.3%	91.4 MB	6.5 GB	5.7 MB	51.9 KB
+2	a9/a94749	248	run_bepipred (bepipred)	FAILED	0	2026-04-07 17:07:24.361	21m 12s	21m 11s	0.8%	132.8 MB	7.1 GB	10.1 MB	69.9 KB
